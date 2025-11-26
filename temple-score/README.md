@@ -2,7 +2,7 @@
 Dodge chasing and random moving enemies, use powerups, collect coins to increase your score.
 
 ## Gameplay
-![Gameplay](temple-score/screenshots/templescore_9.gif)
+![Gameplay](screenshots/templescore_9.gif)
 
 ## Controls
 - Typical Pico-8 Controls
