@@ -2,7 +2,7 @@
 Dodge orbs shot by evil seals to survive and beat your highscore. 
 
 ## Gameplay
-![Gameplay](penguin-dodger/screenshots/penguin_2.gif)
+![Gameplay](screenshots/penguin_2.gif)
 
 ## Controls
 - Typical Pico-8 Controls
